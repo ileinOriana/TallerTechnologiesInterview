@@ -1,0 +1,38 @@
+📱 Device Matrix – Justificación de cobertura de pruebas móviles
+
+───────────────────────────────
+Android Devices
+───────────────────────────────
+
+1. Google Pixel 6 – Android 14
+   - Dispositivo de referencia de Google
+   - Siempre recibe actualizaciones de Android rápidamente
+   - Usado comúnmente en pruebas de compatibilidad
+
+2. Samsung Galaxy A52 – Android 12
+   - Uno de los dispositivos de gama media más vendidos globalmente
+   - Tiene una capa personalizada de Android (One UI), ideal para detectar problemas en capas OEM
+   - Popular en Latinoamérica y Europa
+
+───────────────────────────────
+iOS Devices
+───────────────────────────────
+
+1. iPhone 13 – iOS 17
+   - Alta popularidad en los últimos 2 años
+   - Compatible con las últimas versiones de iOS
+   - Excelente para validar comportamiento moderno en iOS
+
+2. iPhone SE (2da generación) – iOS 15
+   - Pantalla pequeña (4.7”) con hardware moderno
+   - Ideal para validar responsividad, adaptabilidad de UI
+   - Muy utilizado por usuarios que no actualizan hardware frecuentemente
+
+───────────────────────────────
+Justificación general:
+───────────────────────────────
+La combinación cubre:
+- Últimas versiones de SO (Android 14, iOS 17)
+- Versiones aún activas y estables (Android 12, iOS 15)
+- Diferentes tamaños de pantalla y rendimientos
+- Dispositivos populares y representativos de distintos segmentos del mercado
